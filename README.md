@@ -1,7 +1,7 @@
 - 👋 Hello everyone, I’m Gabriel Medrano.👋
 - 🕵 I’m interested in cybersecurity, programming, pentesting, cloud computing... 🕵
 - 📚 I’m currently learning cybersecurity, web, python...📚
-- 🛒 I’m looking some certifications EJPT, AWS Practitioner...🛒
+- 🛒 I’m looking some certifications EJPT, EWPTv1, AWS Practitioner...🛒
 
 
 <!---
